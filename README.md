@@ -71,5 +71,5 @@ Também, garanta que as extensões a seguir estejam ativadas no seu PHP:
 - 3) Configurar os arquivos App/Config/App.php e App/Config/Database.php, para respectivamente os parametros de URL e Banco de dados.
 - 4) Agora a mágica acontece. 
 
-- Acesso ao painel de administração (Login: admin |Senha: admin)
-- Acesso ao painel paciente (Login: paciente |Senha: paciente)
+- **Acesso ao painel de administração (Login: admin |Senha: admin)**
+- **Acesso ao painel paciente (Login: paciente |Senha: paciente)**
