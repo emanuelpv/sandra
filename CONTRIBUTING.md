@@ -1,28 +1,26 @@
-# Contributing to CodeIgniter4
+# Sistema de Gestão Hospitalar e Clinicas Sandra
 
-## Contributions
+## Contribuições
 
-We expect all contributions to conform to our
-[style guide](https://github.com/codeigniter4/CodeIgniter4/blob/develop/contributing/styleguide.rst),
-be commented (inside the PHP source files), be documented (in the
-[user guide](https://codeigniter4.github.io/userguide/)), and unit tested (in
-the [test folder](https://github.com/codeigniter4/CodeIgniter4/tree/develop/tests)).
-There is a [Contributing to CodeIgniter](./contributing/README.rst) section in the repository which describes the contribution process; this page is an overview.
+Nó esperamos que todos que contribuam com o projeto sigam a padronização MVC do Codeigniter 4
+[style guide](https://github.com/emanuelpv/sandra/blob/develop/contributing/styleguide.rst),
+comentados (dentro dos arquivos PHP do projeto), seja também documentada conforme ([user guide](https://codeigniter4.github.io/userguide/)), bem como, sejam realizados teste unitários conforme ([test folder](https://github.com/emanuelpv/sandra/tree/develop/tests)).
 
-Note, we expect all code changes or bug-fixes to be accompanied by one or more tests added to our test suite
-to prove the code works. If pull requests are not accompanied by relevant tests, they will likely be closed.
-Since we are a team of volunteers, we don't have any more time to work on the framework than you do. Please
-make it as painless for your contributions to be included as possible. If you need help with getting tests
-running on your local machines, ask for help on the forums. We would be happy to help out.
 
-The [Open Source Guide](https://opensource.guide/) is a good first read for those new to contributing to open source!
+Observe que esperamos que todas as alterações de código ou correções de bugs sejam acompanhadas por um ou mais testes adicionados ao nosso conjunto de testes
+para provar que o código funciona. Se as solicitações pull não forem acompanhadas de testes relevantes, elas provavelmente serão encerradas.
+Como somos uma equipe de voluntários, não temos mais tempo para trabalhar na estrutura do que você. Por favor
+torne a inclusão de suas contribuições o mais simples possível. Se precisar de ajuda para fazer testes
+rodando em suas máquinas locais, peça ajuda nos fóruns. Ficaremos felizes em ajudar.
+Siga as orientações do [Open Source Guide](https://opensource.guide/) que é uma boa primeira leitura para aqueles que são novos na contribuição para o código aberto!
+
 ## Issues
 
-Issues are a quick way to point out a bug. If you find a bug or documentation error in CodeIgniter then please make sure that:
+Issues são uma maneira rápida de apontar um bug. Se você encontrar um bug ou erro de documentação no sistema SANDRA, certifique-se de que:
 
-1. There is not already an open [Issue](https://github.com/codeigniter4/CodeIgniter4/issues)
-2. The Issue has not already been fixed (check the develop branch or look for [closed Issues](https://github.com/codeigniter4/CodeIgniter4/issues?q=is%3Aissue+is%3Aclosed))
-3. It's not something really obvious that you can fix yourself
+1. Já não tenha uma questão aberta [Issue](https://github.com/emanuelpv/sandra/issues)
+2. O problema ainda não foi corrigido (verifique o branch de desenvolvimento ou procure por [closed Issues](https://github.com/emanuelpv/sandra/issues?q=is%3Aissue+is%3Aclosed))
+3. Não é algo realmente óbvio que você possa consertar sozinho
 
 Reporting Issues is helpful, but an even [better approach](./contributing/workflow.rst) is to send a
 [Pull Request](https://help.github.com/en/articles/creating-a-pull-request), which is done by
@@ -43,7 +41,7 @@ This makes certain that all submitted code is of the same format as the existing
 
 ### Documentation
 
-If you change anything that requires a change to documentation, then you will need to add to the documentation. New classes, methods, parameters, changing default values, etc. are all changes that require a change to documentation. Also, the [changelog](https://codeigniter4.github.io/CodeIgniter4/changelogs/index.html) must be updated for every change, and [PHPDoc](https://github.com/codeigniter4/CodeIgniter4/blob/develop/phpdoc.dist.xml) blocks must be maintained.
+If you change anything that requires a change to documentation, then you will need to add to the documentation. New classes, methods, parameters, changing default values, etc. are all changes that require a change to documentation. Also, the [changelog](https://codeigniter4.github.io/CodeIgniter4/changelogs/index.html) must be updated for every change, and [PHPDoc](https://github.com/emanuelpv/sandra/blob/develop/phpdoc.dist.xml) blocks must be maintained.
 
 ### Compatibility
 
@@ -110,11 +108,11 @@ In general, any change that would disrupt existing uses of the framework is cons
 The best way to contribute is to fork the CodeIgniter4 repository, and "clone" that to your development area. That sounds like some jargon, but "forking" on GitHub means "making a copy of that repo to your account" and "cloning" means "copying that code to your environment so you can work on it".
 
 1. Set up Git ([Windows](https://git-scm.com/download/win), [Mac](https://git-scm.com/download/mac), & [Linux](https://git-scm.com/download/linux)).
-2. Go to the [CodeIgniter4 repository](https://github.com/codeigniter4/CodeIgniter4).
+2. Go to the [CodeIgniter4 repository](https://github.com/emanuelpv/sandra).
 3. [Fork](https://help.github.com/en/articles/fork-a-repo) it (to your Github account).
 4. [Clone](https://help.github.com/en/articles/cloning-a-repository) your CodeIgniter repository: `git@github.com:\<your-name>/CodeIgniter4.git`
 5. Create a new [branch](https://help.github.com/en/articles/about-branches) in your project for each set of changes you want to make.
-6. Fix existing bugs on the [Issue tracker](https://github.com/codeigniter4/CodeIgniter4/issues) after confirming that no one else is working on them.
+6. Fix existing bugs on the [Issue tracker](https://github.com/emanuelpv/sandra/issues) after confirming that no one else is working on them.
 7. [Commit](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project) the changed files in your contribution branch.
 8. Commit messages are expected to be descriptive of what you changed specifically. Commit messages like
 "Fixes #1234" would be asked by the reviewer to be revised.
@@ -131,11 +129,11 @@ Once the maintainer handling your pull request is satisfied with it they will ap
 
 ### Keeping your fork up-to-date
 
-Unlike systems like Subversion, Git can have multiple remotes. A remote is the name for the URL of a Git repository. By default, your fork will have a remote named "origin", which points to your fork, but you can add another remote named "codeigniter", which points to `git://github.com/codeigniter4/CodeIgniter4.git`. This is a read-only remote, but you can pull from this develop branch to update your own.
+Unlike systems like Subversion, Git can have multiple remotes. A remote is the name for the URL of a Git repository. By default, your fork will have a remote named "origin", which points to your fork, but you can add another remote named "codeigniter", which points to `git://github.com/emanuelpv/sandra.git`. This is a read-only remote, but you can pull from this develop branch to update your own.
 
 If you are using the command-line, you can do the following to update your fork to the latest changes:
 
-1. `git remote add codeigniter git://github.com/codeigniter4/CodeIgniter4.git`
+1. `git remote add codeigniter git://github.com/emanuelpv/sandra.git`
 2. `git pull codeigniter develop`
 3. `git push origin develop`
 
