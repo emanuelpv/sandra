@@ -1,10 +1,4 @@
 # SISTEMA DE GESTÃO HOSPITALAR E CLINICAS SANDRA
-
-[![Build Status](https://github.com/emanuelpv/sandra/workflows/PHPUnit/badge.svg)](https://github.com/emanuelpv/sandra/actions?query=workflow%3A%22PHPUnit%22)
-[![Coverage Status](https://coveralls.io/repos/github/emanuelpv/sandra/badge.svg?branch=develop)](https://coveralls.io/github/emanuelpv/sandra?branch=develop)
-[![Downloads](https://poser.pugx.org/codeigniter4/framework/downloads)](https://packagist.org/packages/codeigniter4/framework)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/emanuelpv/sandra)](https://packagist.org/packages/codeigniter4/framework)
-[![GitHub stars](https://img.shields.io/github/stars/emanuelpv/sandra)](https://packagist.org/packages/codeigniter4/framework)
 [![GitHub license](https://img.shields.io/github/license/emanuelpv/sandra)](https://github.com/emanuelpv/sandra/blob/develop/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/emanuelpv/sandra/pulls)
 <br>
