@@ -5,20 +5,20 @@
 
 ## O que é o sistema SANDRA?
 
-O sistema de gestão hospitalar e clinicas sandra tem o objetivo de fornecer gratuitamente funcionalidade para o gerenciamento de pequenos hospitais e clinicas.
+O sistema de Gestão Hospitalar e Clinicas SANDRA tem o objetivo de fornecer *GRATUITAMENTE* funcionalidade para o gerenciamento de pequenos hospitais e clinicas.
 
 
 ### Funcionalidades
 
-Agendamento Eletrônico (ambulatorial e exames)
-Prontuário Eletrônico (PEP)
-Prescrições de medicamentos
-Internação de pacientes
-Gestão de leitos
-Gestão de Estoque de Medicamentos
-Dispensação de medicamentos
-Gestão de compras
-Faturamento de contas médicas
+- Agendamento Eletrônico (ambulatorial e exames)
+- Prontuário Eletrônico (PEP)
+- Prescrições de medicamentos
+- Internação de pacientes
+- Gestão de leitos
+- Gestão de Estoque de Medicamentos
+- Dispensação de medicamentos
+- Gestão de compras
+- Faturamento de contas médicas
 
 
 ### Documentação
