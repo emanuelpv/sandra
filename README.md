@@ -28,16 +28,12 @@ O sistema de Gestão Hospitalar e Clínicas SANDRA tem o objetivo de fornecer **
 ### Tecnologias utilizadas
 
 [Codeigniter 4](https://github.com/codeigniter4/CodeIgniter4/tree/develop)
+[Bootstrap](https://getbootstrap.com/)
+[AdminLTE](https://adminlte.io/)
+[Google API](https://github.com/googleapis)
+[DataTable](https://github.com/DataTables/DataTables)
 
-- Codeigniter 4
-- Bootstrap
-- AdminLTE
-- Google API
-- DataTable https://github.com/DataTables/DataTables
-- XXXXX
-- XXXXX
-- XXXXX
-- XXXXX
+Dentre muitas outras API's Opensource.
 
 ### Documentação
 
