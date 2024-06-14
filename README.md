@@ -42,21 +42,21 @@ Esta [Documentação](https://emanuelpv.github.io/documentacao/) é a principal 
 
 ## Contribuições
 
-Nós **estamos** aceitando a contribuição  de comunidade!
+Nós **estamos** aceitando a contribuição  de comunidade opensource!
 
-Neste momento, não procuramos contribuições fora do escopo, apenas aquelas que seriam consideradas parte da nossa evolução do sistema!
+Neste momento, não procuramos contribuições fora do escopo do projeto, apenas aquelas que seriam consideradas parte da evolução do sistema!
 
 
 ## Requisitos do servidor
 
-PHP version 7.4 or higher is required, with the following extensions installed:
+PHP 7.4 ou superior é requerido, estando as seguintes extenções ativadas:
 
 
 - [intl](http://php.net/manual/en/intl.requirements.php)
 - [libcurl](http://php.net/manual/en/curl.requirements.php) caso você planeje utilizar a biblioteca HTTP\CURLRequest
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 
-também, garanta que as extensões a seguir estejam ativadas no seu PHP:
+Também, garanta que as extensões a seguir estejam ativadas no seu PHP:
 
 - json (Ativada por padrão - Não desative-a!!)
 - xml (Ativada por padrão - Não desative-a!!)
