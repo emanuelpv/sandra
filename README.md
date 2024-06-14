@@ -25,9 +25,10 @@ O sistema de Gestão Hospitalar e Clínicas SANDRA tem o objetivo de fornecer **
 - Dashboards
 
 
-### Tecnologias utilizadas
+### Tecnologias Opensource utilizadas
 
 - [Codeigniter 4](https://github.com/codeigniter4/CodeIgniter4/tree/develop)
+- [MySql](https://github.com/mysql)
 - [Bootstrap](https://getbootstrap.com/)
 - [AdminLTE](https://adminlte.io/)
 - [Google API](https://github.com/googleapis)
@@ -36,7 +37,7 @@ O sistema de Gestão Hospitalar e Clínicas SANDRA tem o objetivo de fornecer **
 
 ### Documentação
 
-Esta [Documentação](https://emanuelpv.github.io/documentacao/) é a principal referencia sobre o produto.
+Esta [Documentação](https://github.com/emanuelpv/sandra) é a principal referencia sobre o produto.
 
 
 
@@ -62,3 +63,13 @@ Também, garanta que as extensões a seguir estejam ativadas no seu PHP:
 - xml (Ativada por padrão - Não desative-a!!)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 
+
+## Instalação do servidor
+
+- 1) Copiar o fonte do sistema no diretório da aplicação
+- 2) Restaurar o banco de dados constantes no arquivo [sandraGithub] (https://github.com/emanuelpv/sandra/blob/Sandra/sandraGithub.sql)
+- 3) Configurar os arquivos App/Config/App.php e App/Config/Database.php, para respectivamente os parametros de URL e Banco de dados.
+- 4) Agora a mágica acontece. 
+
+- Acesso ao painel de administração (Login: admin |Senha: admin)
+- Acesso ao painel paciente (Login: paciente |Senha: paciente)
