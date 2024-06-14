@@ -5,7 +5,7 @@
 
 ## O que é o sistema SANDRA?
 
-O sistema de Gestão Hospitalar e Clinicas SANDRA tem o objetivo de fornecer *GRATUITAMENTE* funcionalidade para o gerenciamento de pequenos hospitais e clinicas.
+O sistema de Gestão Hospitalar e Clínicas SANDRA tem o objetivo de fornecer **GRATUITAMENTE** funcionalidade para o gerenciamento de pequenos hospitais e clinicas.
 
 
 ### Funcionalidades
@@ -19,7 +19,25 @@ O sistema de Gestão Hospitalar e Clinicas SANDRA tem o objetivo de fornecer *GR
 - Dispensação de medicamentos
 - Gestão de compras
 - Faturamento de contas médicas
+- Gestão de contas (Pacientes e colaboradores)
+- Integração com LDAP
+- Integração com gateway de SMS e E-MAIL
+- Dashboards
 
+
+### Tecnologias utilizadas
+
+[Codeigniter 4](https://github.com/codeigniter4/CodeIgniter4/tree/develop)
+
+- Codeigniter 4
+- Bootstrap
+- AdminLTE
+- Google API
+- DataTable https://github.com/DataTables/DataTables
+- XXXXX
+- XXXXX
+- XXXXX
+- XXXXX
 
 ### Documentação
 
