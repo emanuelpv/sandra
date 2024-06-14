@@ -1,4 +1,4 @@
-# SISTEMA DE GESTÃO HOSPITALAR E CLINICAS SANDRA
+# SANDRA, O SEU SISTEMA DE GESTÃO OPENSOURCE PARA HOSPITALAR E CLÍNICAS 
 [![GitHub license](https://img.shields.io/github/license/emanuelpv/sandra)](https://github.com/emanuelpv/sandra/blob/develop/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/emanuelpv/sandra/pulls)
 <br>
