@@ -1,0 +1,3 @@
+!docs/.vuepress
+**/*{.,-}min.js
+dist/**/*

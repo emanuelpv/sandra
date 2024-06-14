@@ -1,0 +1,4 @@
+Abas não é por horário marcado/demanda livre
+consultas especialidaes são marcadas no sire.
+consultas que não são atendidas em 30 dias são encaminhadas para OCS
+sistema não controle guias vencidas

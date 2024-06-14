@@ -1,0 +1,12 @@
+{
+    "name": "cdssaude/dropbox",
+    "description": "DropBox",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "spatie/dropbox-api": "^1.21"
+    }
+}

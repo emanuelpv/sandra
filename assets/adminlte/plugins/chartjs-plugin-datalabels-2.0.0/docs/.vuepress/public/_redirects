@@ -1,0 +1,6 @@
+# GitBook -> VuePress migration
+/installation       /guide/getting-started.html
+/options            /guide/options.html
+/positioning        /guide/positioning.html
+/formatting         /guide/formatting.html
+/events             /guide/events.html
