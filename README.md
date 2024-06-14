@@ -11,11 +11,14 @@ O sistema de Gestão Hospitalar e Clínicas SANDRA tem o objetivo de fornecer **
 ### Funcionalidades
 
 - Agendamento Eletrônico (ambulatorial e exames)
+- Painel de Chamadas
 - Prontuário Eletrônico (PEP)
 - Prescrições de medicamentos
+- Controle Antimicrobiano
 - Internação de pacientes
 - Gestão de leitos
 - Gestão de Estoque de Medicamentos
+- Tabela CBHPM
 - Dispensação de medicamentos
 - Gestão de compras
 - Faturamento de contas médicas
