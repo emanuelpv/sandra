@@ -1,7 +1,7 @@
 # SANDRA: SISTEMA DE GESTÃO OPENSOURCE PARA HOSPITAIS, CLÍNICAS E CONSULTÓRIOS
 [![GitHub license](https://img.shields.io/github/license/emanuelpv/sandra)](https://github.com/emanuelpv/sandra/blob/develop/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/emanuelpv/sandra/pulls)
-<br>
+
 
 ## O que é o sistema SANDRA?
 
@@ -29,7 +29,7 @@ O sistema de Gestão Hospitalar e Clínicas SANDRA tem o objetivo de fornecer **
 
 
 ### Tecnologias Opensource utilizadas
-
+- [PHP >=7.4](https://www.php.net/)
 - [Codeigniter 4](https://github.com/codeigniter4/CodeIgniter4/tree/develop)
 - [MySql](https://github.com/mysql)
 - [Bootstrap](https://getbootstrap.com/)
