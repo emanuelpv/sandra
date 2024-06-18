@@ -4,6 +4,9 @@
 
 # ATENÇÃO!!!! TODOS OS ARQUIVOS FONTE DESTE SISTEMA ESTÁ SENDO DIRECIONADO PARA O PORTAL DE SOFTWARE PÚBLICO, POIS ESTE PROJETO NASCEU OPENSOURCE.
 
+Em breve o link será divulgado:
+https://www.gov.br/governodigital/pt-br/plataformas-e-servicos-digitais/software-publico
+
 ## O que é o sistema SANDRA?
 
 O sistema de Gestão Hospitalar SANDRA tem o objetivo de fornecer **GRATUITAMENTE** funcionalidade para o gerenciamento de pequenos hospitais e postos de saúde.
