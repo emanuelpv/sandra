@@ -2,6 +2,8 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/emanuelpv/sandra/pulls)
 
 
+# ATENÇÃO!!!! TODOS OS ARQUIVOS FONTE DESTE SISTEMA ESTÁ SENDO DIRECIONADO PARA O PORTAL DE SOFTWARE PÚBLICO, POIS ESTE PROJETO NASCEU OPENSOURCE.
+
 ## O que é o sistema SANDRA?
 
 O sistema de Gestão Hospitalar SANDRA tem o objetivo de fornecer **GRATUITAMENTE** funcionalidade para o gerenciamento de pequenos hospitais e postos de saúde.
