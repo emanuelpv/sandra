@@ -1,4 +1,5 @@
 # SANDRA: SISTEMA DE GESTÃO OPENSOURCE PARA HOSPITAIS, CLÍNICAS E CONSULTÓRIOS
+[![GitHub license](https://img.shields.io/github/license/emanuelpv/sandra)](https://github.com/emanuelpv/sandra/blob/develop/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/emanuelpv/sandra/pulls)
 [![PHP Version Require](http://poser.pugx.org/phpunit/phpunit/require/php)](https://packagist.org/packages/phpunit/phpunit)
 
