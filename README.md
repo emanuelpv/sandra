@@ -1,6 +1,6 @@
 # SANDRA: SISTEMA DE GESTÃO OPENSOURCE PARA HOSPITAIS, CLÍNICAS E CONSULTÓRIOS
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/emanuelpv/sandra/pulls)
-[![PHP Version Require](http://poser.pugx.org/phpunit/phpunit/require/php)](https://packagist.org/packages/phpunit/phpunit)
+[![PHP Version Require] >=7.4
 
 ## O que é o sistema SANDRA?
 
