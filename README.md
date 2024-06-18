@@ -1,5 +1,7 @@
 # SANDRA: SISTEMA DE GESTÃO OPENSOURCE PARA HOSPITAIS, CLÍNICAS E CONSULTÓRIOS
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/emanuelpv/sandra/pulls)
+https://img.shields.io/github/license/emanuelpv/sandra
+
 
 ## O que é o sistema SANDRA?
 
